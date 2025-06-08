@@ -1,4 +1,3 @@
-import random import itertools import heapq import matplotlib.pyplot as plt import networkx as nx
 import random
 import itertools
 import heapq
